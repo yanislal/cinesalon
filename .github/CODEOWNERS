@@ -1,0 +1,24 @@
+# Responsable de chaque module : GitHub lui demande automatiquement de relire
+# toute modification de son dossier.
+# À COMPLÉTER : remplacer chaque pseudo par le vrai pseudo GitHub, puis retirer le # en début de ligne.
+
+# Socle et salons : Yanis
+# /server/src/serveur.js            @pseudo-yanis
+# /server/src/commun/               @pseudo-yanis
+# /server/src/modules/salons/       @pseudo-yanis
+# /client/src/pages/                @pseudo-yanis
+# /client/src/modules/salons/       @pseudo-yanis
+
+# Vidéo : Aymen
+# /server/src/modules/video/        @pseudo-aymen
+# /client/src/modules/video/        @pseudo-aymen
+
+# Chat et interface : Mohammed
+# /server/src/modules/chat/         @pseudo-mohammed
+# /client/src/modules/chat/         @pseudo-mohammed
+# /client/src/styles.css            @pseudo-mohammed
+
+# Permissions, playlist et tests : Yaya
+# /server/src/modules/permissions/  @pseudo-yaya
+# /server/src/modules/playlist/     @pseudo-yaya
+# /server/tests/                    @pseudo-yaya
